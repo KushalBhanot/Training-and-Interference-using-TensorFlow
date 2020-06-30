@@ -6,6 +6,7 @@
 [![Linkedin](https://img.shields.io/badge/Linkedin-Kushal%20Bhanot-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kushal-bhanot-5495aa88/)
 
 # Training-and-inteference-using-TensorFlow
+[![HitCount](http://hits.dwyl.com/KushalBhanot/Training-and-inteference-using-TensorFlow.svg)](http://hits.dwyl.com/KushalBhanot/Training-and-inteference-using-TensorFlow)<br>
 This deals with how to train machine learning models in the browser and how to use them to perform inference using JavaScript. This will allow you to use machine learning directly in the browser as well as on backend servers like Node.js.
 
 ## Cloning
